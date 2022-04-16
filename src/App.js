@@ -1,7 +1,7 @@
-import logo from "./logo.svg";
+
 import "./App.css";
-import { Button, Container, TextField } from "@mui/material";
-import { Box, color } from "@mui/system";
+import { Button, Container } from "@mui/material";
+import { Box } from "@mui/system";
 import { useRef, useState } from "react";
 
 function App() {
@@ -54,7 +54,7 @@ function App() {
         <Container maxWidth="sm" sx={{ height: "60vh", margin: "2vh" }}>
           <Box
             sx={{
-              height: "100vh",
+              
               position: "relative",
               height: "100%",
             }}
