@@ -103,9 +103,9 @@ function App() {
         <Container maxWidth="sm" sx={{ height: "60vh", margin: "2vh" }}>
           <Box
             sx={{
-              height: "100vh",
+         
               position: "relative",
-            
+              height: "100%",
             }}
           >
             <textarea
