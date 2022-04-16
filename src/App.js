@@ -105,7 +105,7 @@ function App() {
             sx={{
               height: "100vh",
               position: "relative",
-              height: "100%",
+            
             }}
           >
             <textarea
